@@ -7,5 +7,3 @@ Las tecnologias que se usaron fueron :
 - CSS
 - HTML 
 - EmailJs
-
-...
